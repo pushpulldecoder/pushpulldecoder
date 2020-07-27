@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Quantum Machine Learning**
 
-- 👨‍💻 All of my projects are available at <a href="https://pushpulldecoder.github.io/"/>pushpulldecoder.github.io</a>
+- 👨‍💻 All of my projects are available at <a href="https://pushpulldecoder.github.io/"/>**pushpulldecoder.github.io**</a>
 
 - 📫 How to reach me **pushpulldecoder@gmail.com**
 
@@ -29,7 +29,7 @@
 
 ---
 
-<p align='center'> <img src="https://github-readme-stats.vercel.app/api?username=pushpulldecoder&show_icons=true" alt="pushpulldecoder" />  </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=pushpulldecoder&show_icons=true" alt="pushpulldecoder" />  </p>
 
 
 > Looking down the misty path to uncertain destinations ~ x'
