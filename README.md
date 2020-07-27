@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Quantum Machine Learning**
 
-- 👨‍💻 All of my projects are available at [pushpulldecoder.github.io](pushpulldecoder.github.io)
+- 👨‍💻 All of my projects are available at [pushpulldecoder.github.io]<a href="https://pushpulldecoder.github.io/"/>pushpulldecoder.github.io</a>
 
 - 📫 How to reach me **pushpulldecoder@gmail.com**
 
