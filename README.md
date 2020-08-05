@@ -3,8 +3,8 @@
 ---
 
 <h3>Do you see how the world is moving towards the age of Skynet and Rehoboam, I'm the one contributing to it...</h3>
-<h5>Just imaging how the world will look when neural networks start operating on quantum computers...</h5>
-<h5>Will consciousness arise??? Is it an abstract concept or require biological neurons to appear???</h5>
+***Just imaging how the world will look when neural networks start operating on quantum computers...***<br>
+***Will consciousness arise??? Is it an abstract concept or require biological neurons to appear???***<br>
 
 
 - 🔭 I’m currently working on [Neural Turing Machine](https://github.com/pushpulldecoder/Neural-Turing-Machine)
