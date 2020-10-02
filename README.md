@@ -19,7 +19,7 @@
 
 - ✍️ A **developer** by day and **bibliophile** by night
 
-- 📖 Currently reading **TLifespan: Why We Age – and Why We Don't Have To ~ David Sinclair**, **The Muse ~ Jessie Burton**
+- 📖 Currently reading **Lifespan: Why We Age – and Why We Don't Have To ~ David Sinclair**, **The Muse ~ Jessie Burton**
 
 <br>
 
