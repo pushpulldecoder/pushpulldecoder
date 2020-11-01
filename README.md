@@ -34,4 +34,4 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=pushpulldecoder&show_icons=true" alt="pushpulldecoder" />  </p>
 
 
-> Stay hungry, stay foolish...
+> Looking down the misty path to uncertain destinations ~ x'
