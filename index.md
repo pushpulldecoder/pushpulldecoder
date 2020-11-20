@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<img src = 'https://github.com/pushpulldecoder/pushpulldecoder/blob/master/nameplate.jpg?raw=true' />
 
-You can use the [editor on GitHub](https://github.com/pushpulldecoder/pushpulldecoder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>Do you see how the world is moving towards the age of Skynet and Rehoboam, I'm the one contributing to it...</h3>
+<b>Just imaging how the world will look when neural networks start operating on quantum computers...</b><br>
+<b>Will consciousness arise??? Is it an abstract concept or require biological neurons to appear???</b> <br>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 I’m currently working on [Neural Turing Machine](https://github.com/pushpulldecoder/Neural-Turing-Machine)
 
-```markdown
-Syntax highlighted code block
+- 🌱 I’m currently learning **Quantum Machine Learning**
 
-# Header 1
-## Header 2
-### Header 3
+- 👨‍💻 All of my projects are available at <a href="https://pushpulldecoder.github.io/"/>**pushpulldecoder.github.io**</a>
 
-- Bulleted
-- List
+- 📫 How to reach me **pushpulldecoder@gmail.com**
 
-1. Numbered
-2. List
+- ⚡ Fun fact **There’s a word for loving the smell of old books, Bibliosmia**
 
-**Bold** and _Italic_ and `Code` text
+- ✍️ A **developer** by day and **bibliophile** by night
 
-[Link](url) and ![Image](src)
-```
+- 📖 Currently reading **Lifespan: Why We Age – and Why We Don't Have To ~ David Sinclair**, **The Muse ~ Jessie Burton**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br>
 
-### Jekyll Themes
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpulldecoder" alt="pushpulldecoder" /> </p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pushpulldecoder/pushpulldecoder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="https://twitter.com/pushpull13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pushpull13" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/in/pushpulldecoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/pushpulldecoder" height="20" width="20" /></a>
+<a href="https://kaggle.com/pushpull" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="pushpull" height="20" width="20" /></a>
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p> <img src="https://github-readme-stats.vercel.app/api?username=pushpulldecoder&show_icons=true" alt="pushpulldecoder" />  </p>
+
+
+> Looking down the misty path to uncertain destinations 🌌🍀~ x'
