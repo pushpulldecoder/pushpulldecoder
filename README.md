@@ -1,4 +1,3 @@
-<img src = 'https://github.com/pushpulldecoder/pushpulldecoder/blob/master/nameplate.jpg?raw=true' />
 
 ---
 
